@@ -1,0 +1,30 @@
+# Video and data folders
+videos/
+
+# Python environment files
+.vscode/
+.pytest_cache/
+__pycache__/
+*.pyc
+*.egg-info/
+
+# macOS specific files
+**/.DS_Store
+
+# Sublime Text project files
+*.sublime-project
+*.sublime-workspace
+
+# Instance specific files
+config
+secret
+
+# venv
+/yt
+
+# temp video file in root
+/*.mp4
+
+# log files
+*.log
+*.out
