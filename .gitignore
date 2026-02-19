@@ -1,5 +1,6 @@
 # Video and data folders
-videos/
+data/
+_output
 
 # Python environment files
 .vscode/
@@ -28,3 +29,6 @@ secret
 # log files
 *.log
 *.out
+
+# weight files
+yolov8x-seg.pt

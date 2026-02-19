@@ -1,0 +1,13 @@
+[project]
+name = "ehmi-vehicle"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "opencv-python>=4.13.0.92",
+    "scikit-image>=0.26.0",
+    "torch>=2.10.0",
+    "tqdm>=4.67.3",
+    "ultralytics>=8.4.14",
+]
