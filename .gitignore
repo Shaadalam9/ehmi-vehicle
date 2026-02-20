@@ -32,3 +32,4 @@ secret
 
 # weight files
 yolov8x-seg.pt
+yolov8n-seg.pt
